@@ -20,7 +20,7 @@
 [[images/icons/addon_development.png]] [[Developing Addons|Developing-Addons]]  
 ![](https://github.com/Electroblob77/Wizardry/blob/1.12.2/src/main/resources/assets/ebwizardry/textures/items/crystal_magic.png) [[About and Credits|About-and-Credits]]  
 ### External Links
-&#x2ba1;&nbsp; [Curseforge Page](https://minecraft.curseforge.com/projects/electroblobs-wizardry)  
+&#x2ba1;&nbsp; [Curseforge Page](https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry)  
 &#x2ba1;&nbsp; [Minecraft Forum Thread](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2818029-electroblobs-wizardry-the-expandable-rpg-magic-mod)  
 &#x2ba1;&nbsp; [Feed the Beast Wiki Page](https://ftb.gamepedia.com/Electroblob%27s_Wizardry)  
-&#x2ba1;&nbsp; [Legacy Documentation](https://minecraft.curseforge.com/projects/electroblobs-wizardry/pages/index)
+&#x2ba1;&nbsp; [Legacy Documentation](https://legacy.curseforge.com/minecraft/mc-mods/electroblobs-wizardry/pages/index)
